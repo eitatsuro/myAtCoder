@@ -1,4 +1,4 @@
-package abc;
+package arc;
 
 import java.util.Scanner;
 
